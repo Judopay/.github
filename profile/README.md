@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/judopay/.github/master/judopay_banner.png)
+
 # Judopay
 
 At Judopay, we aim to create the best all-round customer payment experience on mobile, web and in-app. A part of Fabrick's open finance ecosystem, we provide flexible, secure and innovative payments for a range of different industry sectors.  
